@@ -66,3 +66,7 @@ Clasificar entre:
 Maximizar el recall en clases 1 y 2.
 
 Ajustar umbral para evitar falsos negativos.
+
+
+## Dataset
+https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset
