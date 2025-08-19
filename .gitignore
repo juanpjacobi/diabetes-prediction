@@ -1,0 +1,25 @@
+
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Entorno virtual
+.venv/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/models/
+outputs/figures/
