@@ -10,7 +10,6 @@ diabetes_/
 ├── data/ # Dataset original
 ├── notebooks/ # Exploraciones y pruebas manuales
 ├── src/ # Código fuente modular
-├── outputs/ # Modelos entrenados, gráficos
 ├── requirements.txt # Dependencias del proyecto
 ├── README.md # Descripción general
 └── .gitignore # Archivos a excluir del control de versiones
