@@ -6,7 +6,7 @@ from evaluation import evaluate_model
 
 def main():
     # 1. Cargar datos
-    df = load_data("../data/diabetes.csv")
+    df = load_data("./data/diabetes.csv")
 
     # 2. EDA
     run_eda(df)
