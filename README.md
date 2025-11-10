@@ -28,6 +28,10 @@ Librerías: ver `requirements.txt`
 
 ## 🧪 Cómo usar
 
+## Dataset
+https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset
+Descargar y poner dentro de una carpeta llamada data dentro de la raiz del proyecto
+
 ### 1. Crear entorno virtual
 
 ```bash
@@ -66,7 +70,3 @@ Clasificar entre:
 Maximizar el recall en clases 1 y 2.
 
 Ajustar umbral para evitar falsos negativos.
-
-
-## Dataset
-https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset
